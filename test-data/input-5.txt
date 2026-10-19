@@ -1,0 +1,3 @@
+#5.	Tries to fire both of the torpedo stores.
+GT4500,10,0,10,0
+TORPEDO,ALL  # tries to fire both of the torpedo stores

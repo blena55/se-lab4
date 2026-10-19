@@ -1,0 +1,4 @@
+#2.	To give some cooling time to the torpedo stores, torpedo stores are fired alternating.
+GT4500,10,0,10,0
+TORPEDO,SINGLE  # first shot should fire from the primary store
+TORPEDO,SINGLE  # second shot should alternate and fire from the secondary store
