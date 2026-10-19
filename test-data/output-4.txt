@@ -1,0 +1,2 @@
+SUCCESS  # <- GT4500
+FAIL     # <- TORPEDO (failure reported, does not attempt secondary)

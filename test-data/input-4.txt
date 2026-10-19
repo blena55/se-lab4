@@ -1,0 +1,3 @@
+#4.	If the fired store reports a failure, the ship does not try to fire the other one.
+GT4500,1,1.0,10,0
+TORPEDO,SINGLE  # primary store reports failure, should not try the other one

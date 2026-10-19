@@ -1,0 +1,2 @@
+GT4500,10,1,10,0
+TORPEDO,ALL  # tries to fire both, primary fails, tests ALL branch logic
