@@ -1,0 +1,3 @@
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # 1st shot: fires the only torpedo from the primary store
+TORPEDO,SINGLE  # 2nd shot: secondary is empty -> tries primary -> primary is now empty too -> fails
